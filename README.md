@@ -13,20 +13,20 @@
 > neofetch
 ```
 
-<img align="left" src="https://raw.githubusercontent.com/keta1/keta1/main/pic/00.webp" width="150px"/> 
+<img align="left" src="https://raw.githubusercontent.com/keta1/keta1/main/pic/00.webp" width="120px"/> 
 
 ```csharp
 My Profile
 -------------------------------
-Username: @YT-Advanced.
-WhoamI: Secondary Student.
-Telegram: @annonyviet.
-Hobbies: Videogames 🎮.
-Gender: Male-Boy.
+Name: Hoàng Gia Bảo.
+WhoamI: Secondary Student 🏫.
+Gender: Male.
 Location: DongNai, VietNam.
-Languages: Bash, C#, Python, NodeJS.
-Learning: Java, Kotlin.
+Loves: Videogames 🎮, Stuff technology 🚀.
 Hobbies: Gaming, Coding while I am listening music.
+Languages: Bash, CPlusPlus, CSharp, Python, NodeJS.
+Learning: Java, Kotlin.
+Telegram: @annonyviet.
 ```
 
 <div>
