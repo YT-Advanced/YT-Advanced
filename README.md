@@ -67,3 +67,14 @@ So I do my best in every specialtation area. My programming languages are NodeJS
 <img src="https://raw.githubusercontent.com/huy232/huy232/main/image/2.gif" align="center" />
   </div>
 <br> 
+</div>  
+
+
+<br>
+<div>
+<h2 align="center">View counter 👀</h2>
+<div align="center">
+<img src="https://moe-counter.glitch.me/get/@YT-Advanced?theme=gelbooru-h" align="center" />
+  </div>
+<br> 
+     
