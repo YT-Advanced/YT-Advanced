@@ -7,7 +7,7 @@
 </div>
 <br>
 
-<h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
+<h2 align="center"> 💬 About me 👁️‍🗨️ </h2>
 
 ```zsh
 > neofetch
@@ -28,7 +28,8 @@ Languages: Bash, CPlusPlus, CSharp, Python, NodeJS.
 Learning: Java, Kotlin.
 Telegram: @annonyviet.
 ```
-
+<br>
+     
 <div>
 <h2 align="center"> 🔎Knowledge📖 </h2>
 </div>
@@ -43,7 +44,7 @@ So I do my best in every specialtation area. My programming languages are NodeJS
 </div>
 <br>
 
-<h2 align = "center"> 📉 GitHub Stats</h2>
+<h2 align = "center"> 📉 GitHub Stats </h2>
 <div> 
 <p align = "center">
   <a href="https://github.com/YT-Advanced"><img alt="YT-Advanced's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=YT-Advanced&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&line_height=28" height="192px"/></a>
@@ -53,7 +54,7 @@ So I do my best in every specialtation area. My programming languages are NodeJS
 </div>
 <br>
 
-<h1 align="center"> My contributions game 🐍🎮</h1>
+<h2 align="center"> My contributions game 🐍🎮</h2>
 
 ![](https://raw.githubusercontent.com/YT-Advanced/YT-Advanced/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/YT-Advanced/YT-Advanced/output/github-contribution-grid-snake.svggh-light-mode-only)
