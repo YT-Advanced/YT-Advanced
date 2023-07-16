@@ -22,8 +22,8 @@ Name: Hoàng Gia Bảo.
 WhoamI: Secondary Student 🏫.
 Gender: Male.
 Location: DongNai, VietNam.
-Loves: Videogames 🎮, Stuff technology 🚀.
-Hobbies: Gaming, Coding while I am listening music.
+Loves: Videogames 🎮, Stuff technology 🚀, Books 📚.
+Hobbies: Gaming, Coding while I am listening music 🎶.
 Languages: Bash, CPlusPlus, CSharp, Python, NodeJS.
 Learning: Java, Kotlin.
 Telegram: @annonyviet.
@@ -31,20 +31,20 @@ Telegram: @annonyviet.
 <br>
      
 <div>
-<h2 align="center"> 🔎Knowledge📖 </h2>
+<h2 align="center"> 🔎 Knowledge 📖 </h2>
 </div>
 <div align = "center">
 <p align = "justify">I worked using Python for AI and CSharp to code my Desktop App. Nowdays, I focus on mobile developement as Kotlin and Java, also I love cyber security.
 So I do my best in every specialtation area. My programming languages are NodeJS, CSharp, C++, Python, Shell Script, Powershell Script and little bit of Kotlin, Java. Check my repositories and give your opinion I'll do my best and be better every day.<br></p>
 <p align = "center">
      <a href="https://skillicons.dev">
-        <img style="margin: 10px"src="https://skillicons.dev/icons?i=androidstudio,bash,linux,git,github,java,kotlin,py,dotnet,cs,cpp,css,html,githubactions&perline=7"alt="My Skills"/> 
+        <img src="https://skillicons.dev/icons?i=androidstudio,bash,linux,git,github,java,kotlin,py,cs,cpp,js,css,html,githubactions&perline=7"alt="My Skills"/> 
     </a>
 </p>
 </div>
 <br>
 
-<h2 align = "center"> 📉 GitHub Stats </h2>
+<h2 align = "center"> 📉 GitHub Stats 🌟 </h2>
 <div> 
 <p align = "center">
   <a href="https://github.com/YT-Advanced"><img alt="YT-Advanced's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=YT-Advanced&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&line_height=28&rank_icon=github" height="192px"/></a>
@@ -78,5 +78,5 @@ So I do my best in every specialtation area. My programming languages are NodeJS
 <div align="center">
 <img src="https://moe-counter.glitch.me/get/@YT-Advanced?theme=gelbooru" />
   </div>
-<br> 
-     
+<br>
+
