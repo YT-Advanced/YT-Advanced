@@ -39,7 +39,7 @@ jobs:
           test -f dist/github-contribution-grid-snake-dark.svg
 
       - name: Push
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
