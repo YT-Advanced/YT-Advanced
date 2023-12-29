@@ -19,13 +19,13 @@
 My Profile
 -------------------------------
 Name: Hoàng Gia Bảo.
-WhoamI: Secondary Student 🏫.
+WhoamI: High School Student 🏫.
 Gender: Male.
 Location: DongNai, VietNam.
 Loves: Videogames 🎮, Stuff technology 🚀, Books 📚.
 Hobbies: Gaming, Coding while I am listening music 🎶.
-Languages: Bash, CPlusPlus, CSharp, Python, NodeJS.
-Learning: Java, Kotlin.
+Languages: Bash, CPlusPlus, CSharp, Python, NodeJS, Java, Kotlin.
+Learning: Computer Science.
 Telegram: @annonyviet.
 ```
 <br>
@@ -34,8 +34,8 @@ Telegram: @annonyviet.
 <h2 align="center"> 🔎 Knowledge 📖 </h2>
 </div>
 <div align = "center">
-<p align = "justify">I worked using Python for AI and CSharp to code my Desktop App. Nowdays, I focus on mobile developement as Kotlin and Java, also I love cyber security.
-So I do my best in every specialtation area. My programming languages are NodeJS, CSharp, C++, Python, Shell Script, Powershell Script and little bit of Kotlin, Java. Check my repositories and give your opinion I'll do my best and be better every day.<br></p>
+<p align = "justify">I worked using Python for AI and CSharp to code my Desktop App. A year ago, I learned Kotlin and Java, also some reverse engineering to develope ReVanced. Nowdays, I focus on Computer Science.
+So I do my best in every specialtation area. My programming languages are NodeJS, CSharp, C++, Python, Shell Script, Powershell Script and Kotlin, Java. Check my repositories and give your opinion I'll do my best and be better every day.<br></p>
 <p align = "center">
      <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=androidstudio,bash,linux,git,github,java,kotlin,py,cs,cpp,js,css,html,githubactions&perline=7"alt="My Skills"/> 
