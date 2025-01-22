@@ -76,7 +76,7 @@ So I do my best in every specialtation area. My programming languages are NodeJS
 <div>
 <h2 align="center">View counter 👀</h2>
 <div align="center">
-<img src="https://moe-counter.glitch.me/get/@YT-Advanced?theme=gelbooru" />
+<img src="https://count.getloli.com/@YT-Advanced?theme=original-new" />
   </div>
 <br>
 
